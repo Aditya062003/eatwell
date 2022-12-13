@@ -1,0 +1,29 @@
+[{
+    "name": "test",
+    "address": "test street",
+    "cuisine": "mexican",
+    "website": "https://testrestaurant.com",
+    "description": "It's awesome"
+  },
+  {
+    "name": "test2",
+    "address": "test2 street",
+    "cuisine": "indian",
+    "website": "https://testrestaurant.com",
+    "description": "okayokay"
+  },
+  {
+    "name": "test3",
+    "address": "test city",
+    "cuisine": "mexican",
+    "website": "https://testrestaurant.com",
+    "description": "Legendary"
+  },
+  {
+    "name": "Shabri",
+    "address": "Near DAV School",
+    "cuisine": "Indian",
+    "website": "https://shabri.com",
+    "description": "Legendary"
+  }]
+
